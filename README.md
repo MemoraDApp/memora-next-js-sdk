@@ -96,7 +96,7 @@ export type MemoraIntel = {
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/memora.git
+git clone https://github.com/MemoraDApp/memora-next-js-sdk.git
 cd memora
 ```
 
